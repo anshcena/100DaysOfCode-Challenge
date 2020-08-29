@@ -66,7 +66,7 @@ Write **>** followed by your text
 
 Write Code or command with a single backtick. The text within the backticks will not be formatted.
 
-- ``` > Like we use `git add`  to add the files to GitHub. ```
+- ``` Like we use `git add`  to add the files to GitHub. ```
 
 - Like we use `git add` to add the files to GitHub
 
