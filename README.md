@@ -10,3 +10,8 @@ August 29th, 2020
 - I will tweet about my progress every day using the hashtag : [#100DaysOfCode](https://twitter.com/search?q=100DaysOfCode&src=typed_query)
 - Daily updates via tweets can be followed on my twitter account [Ansh Varun](https://twitter.com/anshcasm)
 - Feel free to disscuss tech with me on [Twitter](https://twitter.com/anshcasm) and [LinkedIn](https://www.linkedin.com/in/ansh-varun-147125107/) 
+
+### Reference
+Website : [100DaysOfCode](https://www.100daysofcode.com/)
+
+Credits: [ 100 days of code by Alex Kallaway](https://github.com/kallaway/100-days-of-code)
