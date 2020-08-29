@@ -71,11 +71,12 @@ Write Code or command with a single backtick. The text within the backticks will
 - Like we use `git add` to add the files to GitHub
 
 To write Code use triple backticks.
+
  
 ```
- git clone add https://username/repo/repo.git
+ ```git clone add https://username/repo/repo.git
  cd repo
  npm i
- npm start
+ ```npm start
  ```
  
