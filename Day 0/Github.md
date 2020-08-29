@@ -117,7 +117,7 @@ Content in the first column | Content in the second column
 
 > Team || Contributor
 
-| <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> |
+| <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> |
 | :---: |:---:| :---:|
 | [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena)    | [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena) | [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena)  |
 | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> |
