@@ -1,7 +1,8 @@
 # I've joined the #100DaysOfCode Challenge
 
 #### Start Date
-August 29th, 2020
+August 29th, 2020 [![Challenge](https://img.shields.io/static/v1?label=100DaysOfCode&message=Accepted&color=<grey>)](https://www.100daysofcode.com/)
+
 
 ### Inside
 - I'll update my work to this public repository daily!
