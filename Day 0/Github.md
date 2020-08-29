@@ -143,6 +143,7 @@ Content in the first column | Content in the second column
 There is another way of writing your code snippets on GitHub using [Gist](https://gist.github.com/)
 - Checkout [Gist here](https://gist.github.com/)
 - Gist are simple user-friendly code snippets which also allow comments, embedding and other GitHub feautures.
+- Example [sample snippet](https://gist.github.com/anshcena/6bd740b7c0b50848465e3ba8d6794bcf)
 
 ## Reference
 - [Github Guides](https://guides.github.com/)
