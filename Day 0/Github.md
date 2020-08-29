@@ -144,3 +144,6 @@ There is another way of writing your code snippets on GitHub using [Gist](https:
 - Checkout [Gist here](https://gist.github.com/)
 - Gist are simple user-friendly code snippets which also allow comments, embedding and other GitHub feautures.
 
+## Reference
+- [Github Guides](https://guides.github.com/)
+
