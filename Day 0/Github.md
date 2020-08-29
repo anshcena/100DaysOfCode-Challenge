@@ -110,14 +110,14 @@ Content in the first column | Content in the second column
 
 ![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
 
-## Working with your Team 
+ ## Working with your Team 
 
 > Team || Contributor
 
-| <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> | <a href="http://fvcproductions.com" target="_blank">**FVCproductions**</a> |
+| <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> |
 | :---: |:---:| :---:|
-| [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)    | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com) | [![FVCproductions](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://fvcproductions.com)  |
-| <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/fvcproductions" target="_blank">`github.com/fvcproductions`</a> |
+| [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)    | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena) | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)  |
+| <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> |
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
