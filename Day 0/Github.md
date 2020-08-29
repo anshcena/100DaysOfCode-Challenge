@@ -11,8 +11,9 @@
 and goes till 6 #
 ```
 **Bold & Italics**
->Close your data inside ** example ** for **example** | **Bold**
->Close you data inside _ example _ for _example_ or  * example * - *example* | *italics*
+Close your data inside ** example ** for **example** | **Bold**
+
+Close you data inside _ example _ for _example_ or  * example * - *example* | *italics*
 
 **Lists**
 **Unordered**
@@ -31,12 +32,19 @@ and goes till 6 #
    1. data 3b
 ```
 **Images**
+
 This can be simply written as :
-> ![Your Image Label Here](Your Image link here)
->*Example* : ![Github Logo](https://e7.pngegg.com/pngimages/914/758/png-clipart-github-social-media-computer-icons-logo-android-github-logo-computer-wallpaper.png)
+> ![Logo](Your Image link here) 
+
+```
+<a href="your-url-here" target="_blank">
+  <img src="your-image-url" width="customize px"/>
+</a>
+```
 
 **Links**
-> [clickable label here](your-url-here)
+
+``` [clickable label here](your-url-here) ```
 
 **Blockquotes**
 Write '>' followed by your text
