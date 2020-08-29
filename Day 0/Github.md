@@ -116,11 +116,11 @@ Content in the first column | Content in the second column
 
 | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> |
 | :---: |:---:| :---:|
-| [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)    | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena) | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)  |
-| <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> |
+| [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena)    | [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena) | [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena)  |
+| <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> |
 
 - You can just grab their GitHub profile image URL
-- You should probably resize their picture using `?s=200` at the end of the image URL.
+- You should probably resize their picture.
  
 **Emoji**
 - GitHub supports [emoji!](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
