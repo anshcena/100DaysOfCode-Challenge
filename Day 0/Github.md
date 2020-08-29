@@ -75,8 +75,18 @@ To write Code use triple backticks.
  
 ```
  ```git clone add https://username/repo/repo.git
- cd repo
- npm i
- ```npm start
+    cd repo
+    npm i
+    npm start
  ```
+```
+ 
+ 
+ ```
+    git clone add https://username/repo/repo.git
+    cd repo
+    npm i
+    npm start
+ ```
+ 
  
