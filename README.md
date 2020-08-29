@@ -12,6 +12,4 @@ August 29th, 2020
 - Feel free to disscuss tech with me on [Twitter](https://twitter.com/anshcasm) and [LinkedIn](https://www.linkedin.com/in/ansh-varun-147125107/) 
 
 ### Reference
-Website : [100DaysOfCode](https://www.100daysofcode.com/)
-
-Credits: [ 100 days of code by Alex Kallaway](https://github.com/kallaway/100-days-of-code)
+[100DaysOfCode](https://www.100daysofcode.com/) | Credits: [ 100 days of code by Alex Kallaway](https://github.com/kallaway/100-days-of-code)
