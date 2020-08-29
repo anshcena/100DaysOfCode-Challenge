@@ -91,3 +91,16 @@ Content in the first column | Content in the second column
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
+
+**Emoji**
+- GitHub supports [emoji!](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
+
+- To see a list of every image, check out the [Emoji Cheat Sheet.](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+
+#### Hand Single Finger
+
+| | ico | shortcode | ico | shortcode | |
+| - | :-: | - | :-: | - | - |
+| [top](#people--body) | :point_left: | `:point_left:` | :point_right: | `:point_right:` | [top](#table-of-contents) |
+| [top](#people--body) | :point_up_2: | `:point_up_2:` | :fu: | `:fu:` <br /> `:middle_finger:` | [top](#table-of-contents) |
+| [top](#people--body) | :point_down: | `:point_down:` | :point_up: | `:point_up:` | [top](#table-of-contents) |
