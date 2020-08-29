@@ -36,6 +36,8 @@ Close you data inside _ example _ for _example_ or  * example * - *example* | *i
 This can be simply written as :
 > ![Logo](Your Image link here) 
 
+Also can be written like :
+
 ```
 <a href="your-url-here" target="_blank">
   <img src="your-image-url" width="customize px"/>
@@ -47,20 +49,32 @@ This can be simply written as :
 ``` [clickable label here](your-url-here) ```
 
 **Blockquotes**
-Write '>' followed by your text
- **>** 
-Developers don't sleep
+
+Write **>** followed by your text
+
+```Developers don't sleep
+
 > Not tested yet
 > Test cases pending
+```
+
+Developers don't sleep
+
+> Not tested yet
+
+> Test cases pending
+
 
 **Quoting code**
+
 Write Code or command with a single backtick. The text within the backticks will not be formatted.
- > Like we use ` `git add` ` to add the files to GitHub.
- Like we use `git add` to add the files to GitHub
+ ``` > Like we use `git add`  to add the files to GitHub. ```
+
+Like we use `git add` to add the files to GitHub
+
 To write Code use triple backticks.
  
-``` and your code here closed with 
-```
+ >  ``` write your code here ```
 ```
  git clone add https://username/repo/repo.git
  cd repo
