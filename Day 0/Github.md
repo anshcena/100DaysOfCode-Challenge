@@ -103,27 +103,25 @@ Content in the first column | Content in the second column
 
 **GIF Tools**
 
-- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of desktop and export them as `GIF`s.
+- Use <a href="http://recordit.co/" target="_blank">**Recordit**</a> to create quicks screencasts of your desktop and export them as `GIF`s.
 - For terminal sessions, there's <a href="https://github.com/chjj/ttystudio" target="_blank">**ttystudio**</a> which also supports exporting `GIF`s.
 
 **Recordit**
 
-```
-![Recordit GIF](http://g.recordit.co/06yRFKbslV.gif)
-```
-![Recordit GIF](http://g.recordit.co/06yRFKbslV.gif)
+![Recordit GIF](http://g.recordit.co/iLN6A0vSD8.gif)
+
 
  ## Working with your Team 
 
 > Team || Contributor
 
-| <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> |
+| <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> |
 | :---: |:---:| :---:|
-| [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena)    | [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena) | [![Ansh Varun](https://raw.githubusercontent.com/anshcena/100DaysOfCode-Challenge/master/Day%200/team.png)](http://github.com/anshcena)  |
-| <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> |
+| [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)    | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena) | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)  |
+| <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> |
 
 - You can just grab their GitHub profile image URL
-- You should probably resize their picture.
+- You should probably resize their picture using `?s=200` at the end of the image URL.
  
 **Emoji**
 - GitHub supports [emoji!](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax#using-emoji)
@@ -143,8 +141,4 @@ Content in the first column | Content in the second column
 There is another way of writing your code snippets on GitHub using [Gist](https://gist.github.com/)
 - Checkout [Gist here](https://gist.github.com/)
 - Gist are simple user-friendly code snippets which also allow comments, embedding and other GitHub feautures.
-- Example [sample snippet](https://gist.github.com/anshcena/6bd740b7c0b50848465e3ba8d6794bcf)
-
-## Reference
-- [Github Guides](https://guides.github.com/)
 
