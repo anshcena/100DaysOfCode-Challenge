@@ -38,10 +38,11 @@ project/
 
 ```
 - Two approach we can have as :
-- Option 1 – **[Encapsulated Modules]**(https://github.com/mhartington/lazyLoad2-components/)
-- Option 2 – **[Shared Common Modules]**(https://github.com/mhartington/lazyLoad2-components/tree/common-modules)
+- Option 1 – **[Encapsulated Modules](https://github.com/mhartington/lazyLoad2-components/)**
+- Option 2 – **[Shared Common Modules](https://github.com/mhartington/lazyLoad2-components/tree/common-modules)**
 
 Here's something optimised structure i learnt with structural guidelines
+- source : [angular-ionic-schematics](https://github.com/Robinyo/ionic-angular-schematics)
 
 ```
   ├── <PROJECT_ROOT>
@@ -107,7 +108,4 @@ Here's something optimised structure i learnt with structural guidelines
 
 ```
 
-
-Do import all modules required by the assets in the SharedModule; for example, CommonModule and FormsModule.
-
-Why? SharedModule will contain components, directives and pipes that may need features from another common module; for example, ngFor in CommonModule.
+- **Shared Module** : It import all modules required by the assets in the SharedModule; for example, CommonModule and FormsModule and it does it so because SharedModule will contain components, directives and pipes that may need features from another common module; for example, ngFor in CommonModule.
