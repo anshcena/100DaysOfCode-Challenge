@@ -17,3 +17,11 @@ Documentaion of project are one of the most important part of project.
 - Making testing services and learned about creating it with **[Jasmin](https://jasmine.github.io/)**
 - **[Karma Test Runner](https://angular.io/guide/testing)** is what runs them
 - [Sme of My test Cases Examples](https://github.com/anshcena/100DaysOfCode-Challenge/tree/master/Day%201/display-menu)
+
+
+####  [![Day 2 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-2&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge/blob/master/Day%202/Readme.md)
+**Ionic App Optimised File Structure**
+- Learned about Shared Modules
+- Learned how to structure files in optimised manner in project with too many services, directives and components.
+- Folders-by-feature structure
+- Core Feature Module
