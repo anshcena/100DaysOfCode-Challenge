@@ -115,10 +115,10 @@ Content in the first column | Content in the second column
 
 > Team || Contributor
 
-| <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="anshvarun.tech" target="_blank">**Ansh Varun**</a> |
+| <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> | <a href="https://anshvarun.tech" target="_blank">**Ansh Varun**</a> |
 | :---: |:---:| :---:|
-| [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)    | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena) | [![Ansh Varun](https://avatars1.githubusercontent.com/u/4284691?v=3&s=200)](http://github.com/anshcena)  |
-| <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/fvcproductions`</a> |
+| [![Ansh Varun](https://github.com/anshcena/100DaysOfCode-Challenge/blob/master/Day%200/team.png?raw=true)](http://github.com/anshcena)    | [![Ansh Varun](https://github.com/anshcena/100DaysOfCode-Challenge/blob/master/Day%200/team.png?raw=true)](http://github.com/anshcena) | [![Ansh Varun](https://github.com/anshcena/100DaysOfCode-Challenge/blob/master/Day%200/team.png?raw=true)](http://github.com/anshcena)  |
+| <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> | <a href="http://github.com/anshcena" target="_blank">`github.com/anshcena`</a> |
 
 - You can just grab their GitHub profile image URL
 - You should probably resize their picture using `?s=200` at the end of the image URL.
