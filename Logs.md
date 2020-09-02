@@ -25,3 +25,11 @@ Documentaion of project are one of the most important part of project.
 - Learned how to structure files in optimised manner in project with too many services, directives and components.
 - Folders-by-feature structure
 - Core Feature Module
+
+####  [![Day 3 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-3&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge/tree/master/Day%203/my-first-static-website)
+**Gatsby Static Website Generator**
+- Learned about Gastby Static Wwebsite
+- Fast, Secure, Better SEO, User Experience
+- Easy to set up
+- React Template ( best part for me)
+- but i ended up making .tsx file in project.
