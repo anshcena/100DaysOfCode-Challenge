@@ -33,3 +33,10 @@ Documentaion of project are one of the most important part of project.
 - Easy to set up
 - React Template ( best part for me)
 - but i ended up making .tsx file in project.
+
+####  [![Day 4 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-4&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge/tree/master/Day%203/my-first-static-website)
+**Porting Create-react-app to Gatsby**
+- Easy to convert
+- serves static content to client i.e pre-rendered
+- better user experience 
+- better reach for slow internet devices | under powered devices
