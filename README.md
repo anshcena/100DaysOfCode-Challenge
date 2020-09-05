@@ -1,4 +1,16 @@
-# I've joined the #100DaysOfCode Challenge
+<br />
+
+<div>
+  <h1 align="center">
+    <img src="https://100-days-of-code.s3-us-west-1.amazonaws.com/Readme/100DocLogo.gif" height="60px" style="vertical-align: middle; display: inline;" alt="Logo"/>
+    &nbsp
+    I've joined the #100DaysOfCode Challenge
+    <br />
+    &nbsp
+  </h1>
+</div>
+
+<br />
 
 #### Start Date
  [![Date](https://img.shields.io/static/v1?label=Date&message=29th-August-2020&color=<grey>)](https://www.100daysofcode.com/) [![Challenge](https://img.shields.io/static/v1?label=100DaysOfCode&message=Accepted&color=<grey>)](https://www.100daysofcode.com/)
