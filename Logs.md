@@ -48,3 +48,21 @@ Documentaion of project are one of the most important part of project.
 - neomorphic component generator
 - styling with color contrast
 
+####  [![Day 6 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-6&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge)
+**Learning some Minimalist Design Concepts.**
+*Goals :*
+- Optimal layout view concept vulnerable to screen size
+- Using the key rules of Minimalist Graphic Design
+- Taking some tasks from https://frontendmentor.io
+for better challenges!
+
+####  [![Day 7 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-7&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge)
+**Learned some CSS writing skills :**
+
+- creating Gradients with linear and radial
+- Floating things
+- Positioning elements
+- Flex & Grid on items
+- Animation, Transform & Transitions (specially on hover)
+- SASS(SCSS)
+
