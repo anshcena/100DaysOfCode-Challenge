@@ -67,7 +67,7 @@ for better challenges!
 - SASS(SCSS)
 
 
-####  [![Day 8 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-8&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge)
+####  [![Day 8 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-8&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge/blob/master/Day%208/Readme.md)
 
 Lately i have been working on CSS properties and using many of them well in my projects like creating neomorphic UI and components, gradients and many others.
 
