@@ -72,3 +72,22 @@ for better challenges!
 Lately i have been working on CSS properties and using many of them well in my projects like creating neomorphic UI and components, gradients and many others.
 
 - I added some gradient to my display picture border here today!
+
+
+####  [![Day 9 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-9&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge/blob/master/Day%208/Readme.md)
+
+Taking few tasks from http://frontendmentor.io 
+
+Working on single page game task 
+
+Learning outcome include css concepts and other things.
+
+####  [![Day 10 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-10&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge/blob/master/Day%208/Readme.md)
+
+Learned Making File Explorer in Ionic 
+* Create New Folder
+* Create New File
+* Copy File/Folder
+* Move File/Folder
+
+
