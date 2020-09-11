@@ -90,4 +90,13 @@ Learned Making File Explorer in Ionic
 * Copy File/Folder
 * Move File/Folder
 
+####  [![Day 11 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-11&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena/100DaysOfCode-Challenge)
+**Structuring Old Code**
+
+- Strctured Code
+- made services
+- made utility functions
+- made components
+- made resuable functions
+
 
