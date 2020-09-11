@@ -99,4 +99,13 @@ Learned Making File Explorer in Ionic
 - made components
 - made resuable functions
 
+####  [![Day 12 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-12&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/robomx/onsean)
+**Gatsby Lighthouse Score**
+- Adding PWA
+- Optimising Images
+- SEO score
+- Performance Score
+- Accessibility 
+- Offline Support
+
 
