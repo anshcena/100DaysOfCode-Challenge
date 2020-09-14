@@ -108,4 +108,13 @@ Learned Making File Explorer in Ionic
 - Accessibility 
 - Offline Support
 
+####  [![Day 13 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-13&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/robomx/onsean) ####  [![Day 14 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-14&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/robomx/onsean)
+
+- Added some plugins for better performance : 
+- @preactjs
+- reduce JS through Preact
+- **yarn add gatsby-plugin-no-javascript**
+
+Changing the rendering engine from React to Preact can reduce up to 100kb (unzipped) in bundle size, making our sites faster
+
 
