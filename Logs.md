@@ -117,4 +117,11 @@ Learned Making File Explorer in Ionic
 
 Changing the rendering engine from React to Preact can reduce up to 100kb (unzipped) in bundle size, making our sites faster
 
+####  [![Day 14 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-14&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena) [![Day 15 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-15&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena)
+
+- Learned some Animations
+- Applied Animate.css to projects
+- Added illustrations and explored some of free resources
+- Added Free Resouces in repository
+- Content added in repo
 
