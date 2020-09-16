@@ -131,4 +131,5 @@ Learned Adding **New Update Available** or *New Version Update available* in PWA
 I have cached all the urls in my react app and wasn't able to give any update to it until cache is totally cleared.
 Writing newUpdateisAvaialble Function in serviceWorker.js that checks for internet and and falls for cache if found offline and fetches new updated data elsewise.
 
-Working on reducing cache and better better performance for PWA
+Working on reducing cache and better better performance for PWA,
+Worked on lighthouse score to better numbers.
