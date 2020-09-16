@@ -125,3 +125,8 @@ Changing the rendering engine from React to Preact can reduce up to 100kb (unzip
 - Added Free Resouces in repository
 - Content added in repo
 
+####  [![Day 17 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-17&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://github.com/anshcena)
+
+Learned Adding **New Update Available** or *New Version Update available* in PWA app.
+I have cached all the urls in my react app and wasn't able to give any update to it until cache is totally cleared.
+Writing newUpdateisAvaialble Function in serviceWorker.js that checks for internet and and falls for cache if found offline and fetches new updated data elsewise.
