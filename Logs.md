@@ -155,5 +155,9 @@ Made new portfolio in react js https://anshvarun.tech
   </div>
 
 - Finish tasks of these from https://www.freecodecamp.org/
-- Looking forward to finish React soon
+- Looking forward to finish React soon 
+- Bootstrap
+- Sass
+- React
+- Redux
 
