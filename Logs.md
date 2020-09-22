@@ -165,3 +165,6 @@ Made new portfolio in react js https://anshvarun.tech
 - learnt writing media query
 - responsive of all screens
 
+####  [![Day 23 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-23&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/)
+
+
