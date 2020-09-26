@@ -186,7 +186,7 @@ Made new portfolio in react js https://anshvarun.tech
   </div>
   
   ####  [![Day 27 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-27&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/)
-<div>
+<div align="center">
   <img src="https://pbs.twimg.com/media/Ei0WxgYU8AAROtg?format=jpg" width="400" />
   <img src="https://pbs.twimg.com/media/Ei0WxgaUcAAyKvA?format=jpg" width="400" />
   </div>
