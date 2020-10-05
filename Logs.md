@@ -206,5 +206,18 @@ Made new portfolio in react js https://anshvarun.tech
   <img src="https://pbs.twimg.com/media/EjGdiWyVgAAo768?format=png" width="400" />
   </div>
   
-  ### [![Day 31 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-31&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+  ### [![Day 31 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-31&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) ### [![Day 32 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-32&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
  
+Completed JS module from @freeCodeCamp
+ 
+Made a PR too @hacktoberfest
+
+#100daysOfCode and #Hacktoberfest came up with so much tasks!!!
+
+### [![Day 33 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-33&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) ### [![Day 34 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-34&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+<div align="center">
+  <img src="https://pbs.twimg.com/media/EjkKDhIUcAAebcd?format=jpg" width="400" />
+  <img src="https://pbs.twimg.com/media/EjkKDghVoAAfkyl?format=jpg" width="400" />
+  </div>
+
