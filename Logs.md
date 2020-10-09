@@ -225,3 +225,11 @@ Made a PR too @hacktoberfest
   <div align="center">
   <img src="https://pbs.twimg.com/media/EjpTSfqUcAAhK5v?format=jpg" width="400" />
   </div>
+  
+####  [![Day 36 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-36&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)####  [![Day 37 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-37&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)####  [![Day 38 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-38&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+ <div align="center">
+  <img src="https://pbs.twimg.com/media/Ej4goPRU8AA7pnX?format=jpg" width="400" />
+  <img src="https://pbs.twimg.com/media/Ej4goQYVgAA6ch_?format=jpg" width="400" />
+  <img src="https://pbs.twimg.com/media/Ej4goRNU4AAv5Xc?format=jpg&name=900x900" width = "400" />
+  </div>
