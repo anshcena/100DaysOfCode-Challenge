@@ -238,3 +238,8 @@ Made a PR too @hacktoberfest
  <div align="center">
   <img src="https://pbs.twimg.com/media/Ej-r3FcU0AE2qER?format=png" width="400" />
   </div>
+  
+   [![Day 40 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-40&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+ <div align="center">
+<!--   <img src="https://pbs.twimg.com/media/Ej-r3FcU0AE2qER?format=png" width="400" /> -->
+  </div>
