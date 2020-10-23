@@ -250,15 +250,30 @@ Made a PR too @hacktoberfest
    - The ever first edition of AWS Community Day India - 2020 virtual edition @AWSCommunity
    
  [![Day 42 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-42&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+ 
  Completed algorithm part!
+ 
  <div align = "center">
  <img src="https://pbs.twimg.com/media/EkyTwJlUcAEduLX?format=png" width="400" />
  </div>
  
  [![Day 43 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-43&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 44 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-44&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 45 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-45&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
- Completed : Sparkles
+ 
+- Algorithm Certification completed 
  <div align="center">
  <img src="https://pbs.twimg.com/media/Ek13tPCVMAA3QxQ?format=png" width="400" />
  </div>
  
+    
+ [![Day 46 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-46&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+- Started - Front End Libraries Certification Sparkles
+- Completed Bootstrap
+
+ <div align = "center">
+ <img src="https://pbs.twimg.com/media/EkyTwJlUcAEduLX?format=png" width="400" />
+ </div>
+ 
+ 
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 48 : <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> ✨<br><br>✨Learned quiet few principles of async and await<br><br>✨Made Authentication With Route Guards to my project preventing myself checking for cache and routes on each page.✨<br><br>Its pretty easy to set up!✨<a href="https://twitter.com/hashtag/DevCommunityIN?src=hash&amp;ref_src=twsrc%5Etfw">#DevCommunityIN</a> <a href="https://t.co/hVaIYyCDrW">pic.twitter.com/hVaIYyCDrW</a></p>&mdash; Ansh Varun (@anshcasm) <a href="https://twitter.com/anshcasm/status/1319347305737191424?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
