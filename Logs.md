@@ -250,6 +250,13 @@ Made a PR too @hacktoberfest
    - The ever first edition of AWS Community Day India - 2020 virtual edition @AWSCommunity
    
  [![Day 42 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-42&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
- <div align - "center">
+ <div align = "center">
  <img src="https://pbs.twimg.com/media/EkyTwJlUcAEduLX?format=png" width="400" />
  </div>
+ 
+ [![Day 43 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-43&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 44 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-44&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 45 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-45&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+ <div align = "center">
+ <img src="https://pbs.twimg.com/media/Ek13tPCVMAA3QxQ?format=png" width="400" />
+ </div>
+ 
+ 
