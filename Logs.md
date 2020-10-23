@@ -274,6 +274,33 @@ Made a PR too @hacktoberfest
  <img src="https://pbs.twimg.com/media/EkyTwJlUcAEduLX?format=png" width="400" />
  </div>
  
+  [![Day 47 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-47&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+- Learned quiet few principles of async and await
+
+- Made Authentication With Route Guards to my project preventing myself checking for cache and routes on each page.Sparkles
+
+ <div align = "center">
+ <img src="https://pbs.twimg.com/media/Ek9CvzlUcAE8Ldl?format=jpg" width="400" />
+ </div>
  
- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Day 48 : <a href="https://twitter.com/hashtag/100DaysOfCode?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfCode</a> ✨<br><br>✨Learned quiet few principles of async and await<br><br>✨Made Authentication With Route Guards to my project preventing myself checking for cache and routes on each page.✨<br><br>Its pretty easy to set up!✨<a href="https://twitter.com/hashtag/DevCommunityIN?src=hash&amp;ref_src=twsrc%5Etfw">#DevCommunityIN</a> <a href="https://t.co/hVaIYyCDrW">pic.twitter.com/hVaIYyCDrW</a></p>&mdash; Ansh Varun (@anshcasm) <a href="https://twitter.com/anshcasm/status/1319347305737191424?ref_src=twsrc%5Etfw">October 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   [![Day 48 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-48&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+ <div align = "center">
+ <img src="https://pbs.twimg.com/media/ElAJ4sUVMAUOTa8?format=png" width="400" />
+ </div>
+ 
+  [![Day 49 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-49&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+### SASS 
+
+- nesting CSS
+- mixins
+- loops and condtions
+- mapping 
+- importing and extending
+
+ <div align = "center">
+ <img src="https://pbs.twimg.com/media/ElAdas3VcAAw4Hm?format=png" width="400" />
+ </div>
  
