@@ -319,7 +319,7 @@ Learned quite few basic things in this module ✨✨✨
 #DevCommunity
 
 <!-- <div align = "center">
- <img src="https://pbs.twimg.com/media/ElAdas3VcAAw4Hm?format=png" width="400" />
+ <img src="https://pbs.twimg.com/media/ElRi2xGVMAE6xNT?format=jpg" width="400" />
  </div>
  -->
  
