@@ -305,21 +305,18 @@ Made a PR too @hacktoberfest
  </div>
  
  
-   [![Day 50 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-50&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+   [![Day 50 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-50&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 50 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-50&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 50 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-50&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
 
 ### REACT
-Day 50-51-52 : #100DaysOfCode Sparkles✨
 
 React Update ⚛️⚛️⚛️ 
 
 Done with React! ⚛️
 ✨✨✨✨✨
 Learned quite few basic things in this module ✨✨✨
-#freeCodeCamp 
-#DevCommunity
 
-<!-- <div align = "center">
+ <div align = "center">
  <img src="https://pbs.twimg.com/media/ElRi2xGVMAE6xNT?format=jpg" width="400" />
  </div>
- -->
+ 
  
