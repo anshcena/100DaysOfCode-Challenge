@@ -320,10 +320,11 @@ Learned quite few basic things in this module ✨✨✨
  </div>
 
 
-   [![Day 53 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-53&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
-<!--
+   [![Day 53 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-53&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)   [![Day 54 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-54&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+**Redux**
+
  <div align = "center">
- <img src="https://pbs.twimg.com/media/ElAJ4sUVMAUOTa8?format=png" width="400" />
+ <img src="https://pbs.twimg.com/media/ElWywTcUUAEv61Q?format=jpg" width="400" />
  </div>
- -->
  
