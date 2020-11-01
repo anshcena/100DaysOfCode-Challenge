@@ -347,10 +347,9 @@ React + Redux
  
   [![Day 59 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-59&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)   [![Day 60 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-60&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
 
-FreeCodeCamp Frontend librariers
-
+**FontEnd Libraries Project Completed**
 
  <div align = "center">
- <img src="https://pbs.twimg.com/media/Ele-kUKU0AAlNWp?format=jpg" width="400" />
+ <img src="https://pbs.twimg.com/media/Elwgg26U8AAdcXj?format=jpg" width="400" />
  </div>
 
