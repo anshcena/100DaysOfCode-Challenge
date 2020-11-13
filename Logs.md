@@ -381,15 +381,21 @@ React + Redux
 :sparkles: capacitor-community/electron
 
 [![Day 65 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-65&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
 ✨ Nodejs and Express 
 ✨ Serving data with GET-POST
+
 <div align = "center">
  <img src="https://pbs.twimg.com/media/EmkhMceU0AA3aES?format=jpg" width="400" />
  </div>
  
  [![Day 66 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-66&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)[![Day 67 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-67&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+ 
 Spring-Boot environment set up.
 ✨File structure and Architecture done.
 ✨Creating REST APIs done.
-https://pbs.twimg.com/media/Emow8G0VMAAyK39?format=jpg&name=medium
+
+<div align = "center">
+ <img src="https://pbs.twimg.com/media/Emow8G0VMAAyK39?format=jpg" width="400" />
+ </div>
  
