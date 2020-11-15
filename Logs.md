@@ -403,3 +403,9 @@ React + Redux
  
  Projects with Data Visualization 50% completed
  
+  [![Day 70 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-70&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 71 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-71&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena) [![Day 72 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-72&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+  
+  <div align = "center">
+  <img src="https://pbs.twimg.com/media/Em3txGOVgAEo35r?format=png" width="400" />
+  </div>
+  
