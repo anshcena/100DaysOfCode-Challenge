@@ -409,3 +409,5 @@ React + Redux
   <img src="https://pbs.twimg.com/media/Em3txGOVgAEo35r?format=png" width="400" />
   </div>
   
+  [![Day 73 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-73&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+  
