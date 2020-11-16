@@ -413,4 +413,5 @@ React + Redux
   
   - generated resources in nuxt app
   - sync resources in android platform
+  - add resources for electron app
   
