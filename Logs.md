@@ -425,4 +425,4 @@ React + Redux
   
   :sparkles: Packaging application to executable files with scripts
   
-  (Blog check here)[https://github.com/anshcena/blog/blob/main/nuxt-capacitor/nuxt-cap%20integration.md]
+  [Blog check here](https://github.com/anshcena/blog/blob/main/nuxt-capacitor/nuxt-cap%20integration.md)
