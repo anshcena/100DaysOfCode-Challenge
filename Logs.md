@@ -418,3 +418,7 @@ React + Redux
   
 
   [![Day 74 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-74&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+  
+  :sparkles: Nuxt-Capacitor-Integration Explained nuxt capacitor
+  :sparkles: Generated resources for specific platforms and sync with scripts
+  :sparkles: Packaging application to executable files with scripts
