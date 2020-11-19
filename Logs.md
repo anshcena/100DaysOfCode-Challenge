@@ -424,3 +424,5 @@ React + Redux
   :sparkles: Generated resources for specific platforms and sync with scripts
   
   :sparkles: Packaging application to executable files with scripts
+  
+  https://github.com/anshcena/blog/blob/main/nuxt-capacitor/nuxt-cap%20integration.md
