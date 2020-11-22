@@ -429,4 +429,10 @@ React + Redux
   
 [![Day 75 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-75&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
 
--tailwind CSS to IONIC 5 app
+- Capacitor-Nuxt-integration explained 
+- Checkout my article on integration
+
+Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx.com/blog/2020-11-17-capacitor-integration-with-nuxt-app-for-electron-android-and-ios 
+@nuxt_js
+  
+
