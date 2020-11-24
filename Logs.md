@@ -447,7 +447,7 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 
 :sparkles: Security Alert :sparkles:
 
-:sparkles: bcrypt  implementation
-:sparkles: bcrypt uses blowfish algorithm to encrypt passwords
-:sparkles: generate salt and hash with passwords in middleware.
-:sparkles: bcrypt password is ready!
+:sparkles: bcrypt  implementation   
+:sparkles: bcrypt uses blowfish algorithm to encrypt passwords    
+:sparkles: generate salt and hash with passwords in middleware.   
+:sparkles: bcrypt password is ready!  
