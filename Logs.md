@@ -456,10 +456,10 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 
 :sparkles: Security Alert :sparkles:
 
-:sparkles: XSS attack 
-:sparkles: iframes disable
-:sparkles: cookie hijacking
+:sparkles: XSS attack  
+:sparkles: iframes disable  
+:sparkles: cookie hijacking   
 
- sanitizing malicious inputs with client side
-:sparkles: sanitizing server side responses 
-:sparkles: deny the X -frames in main file
+ sanitizing malicious inputs with client side   
+:sparkles: sanitizing server side responses     
+:sparkles: deny the X -frames in main file    
