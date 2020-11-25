@@ -479,3 +479,8 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 - Made reusable components to be used in multiple pages of IONIC APP by making common component module.
 
 - Skipped writing media query and opted for @tailwindcss responsive classes.
+
+<div align = "center">
+ <img src="https://pbs.twimg.com/media/EnnkANAUcAE8EYx?format=jpg&name=medium" width="400" />
+ </div>
+ 
