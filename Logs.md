@@ -473,3 +473,9 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 - If a callback is supplied, the callback is called with the err or the JWT
 
 [![Day 80 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-80&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+- Improvement on frontend skills
+
+- Made reusable components to be used in multiple pages of IONIC APP by making common component module.
+
+- Skipped writing media query and opted for @tailwindcss responsive classes.
