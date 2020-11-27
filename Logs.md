@@ -488,4 +488,5 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
  
  - eslint config
  - file configuration
+ - use eslin tags for disabling
  
