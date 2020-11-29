@@ -506,3 +506,4 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 - Implemented responsive table with mobile as well as desktop and other views.Sparkles
 
 - Reference inspiration gif below.
+<img src="https://twitter.com/i/status/1332713089096028160" />
