@@ -508,5 +508,5 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 - Reference inspiration gif below.
 
 <div align="center">
-[!Recordit]  (https://twitter.com/i/status/1332713089096028160)
+<img src="https://twitter.com/i/status/1332713089096028160" />
   </div>
