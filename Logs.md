@@ -521,3 +521,15 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
   
    [![Day 85 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-85&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
   
+  
+- Setting up prettier in Angular CLI
+
+- Create a .prettierrc
+
+- "editor.formatOnSave": true
+
+- Configure pre-commit hooks using #husky 
+
+- Add script to for precommits
+
+- "precommit": "run-s format:fix lint"
