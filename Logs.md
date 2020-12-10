@@ -534,3 +534,9 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 - "precommit": "run-s format:fix lint"
 
 [![Day 87 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-87&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+- Used drag and drop with ionic 5 
+
+- Learned about GestureController Element
+
+- Introduced to ion-reorder
