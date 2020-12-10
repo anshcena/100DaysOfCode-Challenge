@@ -542,3 +542,11 @@ Capacitor Integration with Nuxt App for Electron, Android and iOS https://robomx
 - Introduced to ion-reorder
 
 [![Day 88 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-88&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+- vue-good-table
+
+- customization
+
+- server-side-table
+
+- style classes
