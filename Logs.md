@@ -560,3 +560,5 @@ Explored Nuxtjs
 ✨ Adding a Navbar to Nuxt Apps
 
 ✨ Build and Serve the Nuxt.js App
+
+
