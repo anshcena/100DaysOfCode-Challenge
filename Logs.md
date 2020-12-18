@@ -576,7 +576,9 @@ Explored Nuxtjs
 [![Day 91 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-91&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
 
 - Nested Promises vs. Async / Await
+
 - async and await Promises
+
 - Handling Errors / Rejection
 
 [![Day 92 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-92&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
