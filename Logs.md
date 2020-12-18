@@ -584,6 +584,7 @@ Explored Nuxtjs
 - Service and Resolve Function with best  recommended way done
 
 - Generate data service
+
 - Generate resolver
 
 - Navigate by url with parameter 
