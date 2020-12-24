@@ -613,9 +613,8 @@ Applied to application:
 
 [![Day 96 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-96&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)[![Day 97 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-97&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
 
-Sparkles Completed application using tailwind CSS in ionic 4
-[ Issues configured occurred due to overriding of ionic CSS over tailwind ] 
+:sparkles: Completed application using tailwind CSS in ionic 4
 
-Sparkles Completed with Guards with specific token based as well as role based.
+:sparkles: Completed with Guards with specific token based as well as role based.
 
-Sparkles APIs done with async/await  promises
+:sparkles: APIs done with async/await  promises
