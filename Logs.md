@@ -620,3 +620,16 @@ Applied to application:
 :sparkles: APIs done with async/await  promises
 
 [![Day 98 | 100 Days of Code](https://img.shields.io/static/v1?label=Day-98&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
+
+:sparkles: Generating resources for Ionic Framework using Capacitor
+
+:sparkles: Missed using *cordova-resources* which generates all sizes
+
+:sparkles: Used *cordova-res*
+
+:sparkles: Used script to add res to project.
+
+Script Reference : https://gist.github.com/dalezak/a6b1de39091f4ace220695d72717ac71
+
+
