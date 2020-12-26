@@ -632,4 +632,6 @@ Applied to application:
 
 Script Reference : https://gist.github.com/dalezak/a6b1de39091f4ace220695d72717ac71
 
+[![Day 99| 100 Days of Code](https://img.shields.io/static/v1?label=Day-99&labelColor=384357&message=100%20Days%20of%20Code&color=00b4ee&style=for-the-badge&link=https://www.100daysofcode.com)](https://www.freecodecamp.org/anshcena)
+
 
