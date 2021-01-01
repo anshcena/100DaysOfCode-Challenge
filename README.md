@@ -13,7 +13,7 @@
 <br />
 
 #### Start Date
- [![Date](https://img.shields.io/static/v1?label=Date&message=29th-August-2020&color=<grey>)](https://www.100daysofcode.com/) [![Challenge](https://img.shields.io/static/v1?label=100DaysOfCode&message=Accepted&color=<grey>)](https://www.100daysofcode.com/)
+ [![Date](https://img.shields.io/static/v1?label=Date&message=29th-August-2020&color=<grey>)](https://www.100daysofcode.com/) [![Challenge](https://img.shields.io/static/v1?label=100DaysOfCode&message=Completed&color=<grey>)](https://www.100daysofcode.com/)
 
 
 ### Inside
